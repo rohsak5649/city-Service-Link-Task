@@ -1,5 +1,5 @@
 $(window).load(function() {
-    $(".circle")
+    $(".rectangle")
       .first()
       .addClass("active");
     $("#bg .slide")
